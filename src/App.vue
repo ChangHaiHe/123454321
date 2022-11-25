@@ -12,7 +12,7 @@ export default {
   },
   data() {
     return {
-      msg: "h222ello world",
+      msg: "hello world,优秀的昌海",
     };
   },
 };
