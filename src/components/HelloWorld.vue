@@ -9,7 +9,7 @@
 class Msg {
   public msg: string = "hello world";
   GetMoreMsg(): string {
-    return "广播体操123459992";
+    return "广播体操1234599ssss92";
   }
 }
 //创建msg对象
